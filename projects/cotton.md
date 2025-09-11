@@ -18,4 +18,6 @@ For this project, I was responsible for designing the entire class structure, wr
 
 Through this project, I learned the importance of object-oriented design principles, particularly **encapsulation** and **data abstraction**. I also gained experience in testing and debugging C++ programs, and in thinking critically about edge cases that could affect the output of a program. Additionally, I practiced writing clear and maintainable code with proper commenting, which will be valuable in collaborative software projects.  
 
-For those interested in exploring the source code, it is available [here](https://github.com/mtuquero/complex-class).  
+You can view the full source code for this project here:  
+[Complex Number Project on GitHub](https://github.com/mtuquero/projects/blob/main/TuqueroMariah18.cpp)
+ 
