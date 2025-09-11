@@ -5,8 +5,14 @@
     "picture": "https://github.com/mtuquero.png",
     "email": "mariah27@hawaii.edu",
     "website": "https://mtuquero.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall 2027.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
       { "network": "github", "username": "mtuquero", "url": "http://github.com/mtuquero" },
       { "network": "linkedin", "username": "Mariah Tuquero", "url": "https://www.linkedin.com/in/mariah-tuquero-94b664381/" }
@@ -14,7 +20,7 @@
   },
   "interests": [
     { "name": "Artificial Intelligence" },
-    { "name": "Cyber security" },
+    { "name": "Cyber Security" },
     { "name": "UI/UX Design" }
   ],
   "skills": [
@@ -29,18 +35,25 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2027)",
-      "studyType": "B.S.",
+      "institution": "Leeward Community College, HI",
+      "area": "Natural Science & Information Communication",
+      "studyType": "A.S.",
       "startDate": "2023",
+      "endDate": "2025",
+      "courses": []
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "2025",
       "endDate": "Present",
       "courses": []
     }
   ],
   "work": [],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
+
