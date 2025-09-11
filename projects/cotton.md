@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/cotton/Screenshot_10-9-2025_171629_www.bing.com.jpeg
 title: "Complex Number Class"
-date: 2025
+date: 2022
 published: true
 labels:
   - C++
