@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/complex.png
+image: img/cotton/projects_cpp.jpg
 title: "Complex Number Class"
 date: 2025
 published: true
