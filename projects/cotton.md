@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/C++-square.jpg
+image: img/cotton/Screenshot_10-9-2025_171629_www.bing.com.jpeg
 title: "Complex Number Class"
 date: 2025
 published: true
@@ -11,8 +11,6 @@ labels:
 summary: "Developed a C++ class to represent complex numbers, including constructors, accessor/mutator methods, and a print function. Tested functionality using multiple objects."
 
 ---
-
-<img class="img-fluid" src="../img/projects/complex-header.png">
 
 The **Complex Number Class** project was developed as part of my coursework in ICS 212. The goal was to implement a C++ class to represent complex numbers in the form a + bi. The class includes constructors, accessor and mutator methods, and a print function capable of correctly formatting positive and negative imaginary parts. The program was fully self-contained and tested using multiple `Complex` objects in `main()`, without requiring user input.  
 
