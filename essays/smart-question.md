@@ -40,7 +40,7 @@ The link to the Stack Overflow question: [Can't find slots during VlnPlot in Seu
 ### Usage of Ai
 
 Some questions I asked chatgpt
-- Break down and highlight key factors of smart/not smart questions
+- Help me go more in depth of what im trying to say
 - Revise and grammer check my work
 - does my writing meet the assignment standards
 
