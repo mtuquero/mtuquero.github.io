@@ -11,7 +11,7 @@ labels:
 summary: "A simple Tic Tac Toe game I built on my own with Java Swing that lets you play against the computer."
 ---
 
-<img class="img-fluid" src="../img/tictactoe/tictactoe-screenshot.png">
+<img class="img-fluid" src="../img/cotton/Screenshot 2025-09-11 191419.png">
 
 Tic Tac Toe is a Java game I created completely on my own to practice building a graphical user interface (GUI) and writing game logic.  
 
