@@ -51,7 +51,15 @@
       "courses": []
     }
   ],
-  "work": [],
+  "work": [
+    {
+      "company": "Restaurant",
+      "position": "Cashier",
+      "startDate": "2025",
+      "endDate": "Present",
+      "summary": "Handle payments, take orders, and assist customers."
+    }
+  ],
   "references": [
     { "name": "Available upon request" }
   ]
