@@ -14,7 +14,7 @@ In *How to Ask Questions the Smart Way*, Eric Raymond outlines guidelines for in
 
 One example of a smart question involves a developer trying to update data in an extension class when the superclass data changes. The developer provides a clear explanation of the problem, a reproducible code example, and evidence of prior research.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/igniting/Screenshot_2025-09-11_215036.png">
+<img width="300px" src="../img/igniting/Screenshot_2025-09-11_215036.png">
 
 The developer clearly explains the expected behavior, the actual behavior, and the steps already tried to resolve the issue. The StackOverflow community can quickly understand the problem and offer specific, effective solutions. This question follows Eric Raymond’s principles: it gives context, provides a working example, asks a clear question, and shows evidence of prior research. These elements make it much more likely to receive efficient and helpful responses.
 
@@ -27,7 +27,7 @@ A not-so-smart question comes from a developer encountering an error while using
 - Incomplete context (unclear data processing steps, minor typos such as `nFeatuere_RNA`).  
 - Limited evidence of prior debugging beyond basic checks.
 
-<img width="400px" class="rounded float-start pe-4" src="../img/difficulty/Screenshot_11-9-2025_22021_stackoverflow.com.jpeg">
+<img width="400px"  src="../img/igniting/Screenshot_11-9-2025_22021_stackoverflow.com.jpeg">
 
 As a result, helpers on StackOverflow cannot fully reproduce the problem and must ask for additional information before providing useful guidance. This question does include some aspects of a smart question, such as providing error messages and a clear goal, but because it leaves out critical details, it is considered a “not so smart” question.
 
