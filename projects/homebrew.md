@@ -13,7 +13,7 @@ labels:
 summary: "A personal project where I homebrewed my Nintendo 3DS to run custom software and apps."
 ---
 
-<img class="img-fluid" src="../img/3ds/3ds-screenshot.png">
+<img class="img-fluid" src="../img/cotton/Screenshot 2025-09-11 203822.png">
 
 This is more of a personal project that I did. I was really interested in a particular 3DS game, but it was nearly impossible to find in stores and most people were reselling it for around $100. Instead of giving up, I decided to take matters into my own hands and homebrew my 3DS. Homebrewing is basically modifying the system so you can run custom software and apps that aren’t normally allowed on the console.  
 
