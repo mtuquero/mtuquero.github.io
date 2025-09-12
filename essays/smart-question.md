@@ -14,7 +14,7 @@ In *How to Ask Questions the Smart Way*, Eric Raymond outlines guidelines for in
 
 One example of a smart question involves a developer trying to update data in an extension class when the superclass data changes. The developer provides a clear explanation of the problem, a reproducible code example, and evidence of prior research.
 
-<img width="300px" src="../img/igniting/Screenshot_2025-09-11_215036.png">
+<img width="300px"  src="../img/igniting/Screenshot 2025-09-11 215036.png">
 
 The developer clearly explains the expected behavior, the actual behavior, and the steps already tried to resolve the issue. The StackOverflow community can quickly understand the problem and offer specific, effective solutions. This question follows Eric Raymond’s principles: it gives context, provides a working example, asks a clear question, and shows evidence of prior research. These elements make it much more likely to receive efficient and helpful responses.
 
