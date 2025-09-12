@@ -35,3 +35,15 @@ As a result, helpers on StackOverflow cannot fully reproduce the problem and mus
 
 These two questions show how important it is to ask clearly. The smart question gets answers faster because it has context, an example, and shows the asker tried to solve it first. The not-so-smart question causes confusion and extra back-and-forth. Asking clear questions saves time and makes it easier to get help.
 
+The link to the Stack Overflow question: [Can't find slots during VlnPlot in Seurat v4](https://stackoverflow.com/questions/79762463/cant-find-slots-during-vlnplot-in-seurat-v4)
+
+### Usage of Ai
+
+Some questions I asked chatgpt
+- Break down and highlight key factors of smart/not smart questions
+- Revise and grammer check my work
+- does my writing meet the assignment standards
+
+Even though I used AI, I made sure to understand the topic we are learning about. AI serves as a guide to help organize my ideas and suggest a starting point for the assignment.
+
+
