@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3ds/3ds-square.png
+image: img/cotton/Screenshot 2025-09-11 203800.png
 title: "Homebrewing My 3DS"
 date: 2023
 published: true
