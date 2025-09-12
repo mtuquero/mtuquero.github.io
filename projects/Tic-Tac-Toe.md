@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cooton/TicTac Toe.png
+image: img/cotton/TicTac Toe.png
 title: "Tic Tac Toe"
 date: 2024
 published: true
