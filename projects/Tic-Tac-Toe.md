@@ -25,4 +25,4 @@ I built this project using **Java Swing** for the interface, and added logic to 
 
 Since I worked on this project by myself, it gave me hands-on experience with **Java GUI programming**, **event handling**, and managing all parts of the project from start to finish.  
 
-Source: <a href="https://github.com/YOUR-USERNAME/tictactoe">YOUR GitHub Repo</a>
+Source: <a href="\[https://github.com/mtuquero/Tic-Tac-Toe.java]">See the code here</a>
