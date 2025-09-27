@@ -20,5 +20,5 @@ To me, coding standards are like following a recipe when cooking. If you skip st
 
 So yes, I do think coding standards can help you learn how to code, not just make your code look nicer. They improve readability, reduce errors, and teach discipline that benefits both solo projects and teamwork.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 Note on AI Assistance: I used ChatGPT to help organize my ideas, improve grammar, and suggest smoother transitions in this essay. All reflections, opinions, and personal experiences about ESLint and VSCode are my own.
