@@ -13,6 +13,7 @@ labels:
 ---
 
 ## Overview
+---
 The problem: Many local and visiting fishers in Hawaiʻi struggle to find reliable information on where and when certain fish species are caught. This often leads to wasted trips, guesswork, or dependence on word-of-mouth information. In addition, data about fishing conditions is scattered or unavailable, making it difficult for fishers to plan effectively or fish sustainably.
 
 The solution: The **CatchMap Hawaiʻi** web application allows users to log and share locations around Hawaiʻi where specific fish are caught and at what times. Users can post their fishing activity to the site, view where others are catching fish, and explore community-sourced data to plan their trips.
