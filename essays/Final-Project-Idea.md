@@ -32,7 +32,6 @@ Admins can monitor the site for inappropriate content, verify or flag suspicious
 - Browse catches by fish type, location, or time of day  
 
 ## Use case ideas
-Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.
 
 - New user goes to the landing page, logs in, gets the home page, and sets up their fishing profile.  
 - Admin goes to the landing page, logs in, gets the home page, and edits or verifies fishing reports.  
