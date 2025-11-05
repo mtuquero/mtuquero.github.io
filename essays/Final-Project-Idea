@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
-date: 2025-11-04
+title: "Thats alot of red"
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-26
 published: true
 labels:
-  - Software engineering
 ---
 
 ## Overview
