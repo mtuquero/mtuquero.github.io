@@ -19,4 +19,5 @@ And of course, the project needed forms — lots of them. Instead of letting inp
 
 As our group has been working on this project, we’ve learned that design patterns aren’t just fancy interview terms. They’re the structure that helps keep our code organized, easier to understand, and easier to build on together. Even without noticing at first, we’ve already been using patterns like state management, observer behavior, and controlled components to keep the project clean and manageable as it grows.
 
-### ChatGpt assistance was used to help revise and improve the clarity of this essay.
+------------------------------------------
+I used ChatGPT to help organize my thoughts, simplify wording, and make the essay flow more clearly. All reflections, explanations, and project details about the design patterns we used are my own.
