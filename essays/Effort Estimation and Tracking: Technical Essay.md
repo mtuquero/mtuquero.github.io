@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -6,6 +5,7 @@ title: "Effort Estimation and Tracking"
 date: 2025-4-12
 published: true
 labels:
+
 ---
 
 # Effort Estimation and Tracking
