@@ -8,10 +8,7 @@ labels:
 
 ---
 
-# Effort Estimation and Tracking
-
 <img width="200px" class="rounded float-start pe-4" src="../img/E4C5C3FC-9652-4C64-B198-E849D91F54B3.png" alt="Effort Tracking">
-
 
 
 
@@ -37,12 +34,5 @@ In future projects, I would improve my estimation process by:
 
 These steps would help create more realistic estimates and more accurate tracking, ultimately improving project planning and execution.
 
-## AI Use in Estimation and Tracking
-I utilized AI tools, primarily Copilot in VSCode, for coding tasks. My effort tracking accounted for AI use as follows:
-
-- **Tool:** GitHub Copilot  
-- **Coding effort recorded:** Prompt engineering, code generation, verification and debugging, integration/refactoring  
-- **Time spent:** Approximately 15–20% of coding tasks involved AI assistance, including reviewing and correcting outputs  
-
-Using AI allowed me to accelerate some tasks but also introduced additional effort for verification and integration, which was important to track accurately.
-
+## Conclusion: Reflections on Effort Estimation and Tracking
+In regards to this experience, I learned that effort estimation and tracking are very important for managing a project. Even though my initial estimates were not always accurate, planning ahead helped me allocate time better and avoid rushing. Tracking actual effort gave me insight into which tasks took longer than expected and how my workflow could improve. Using AI tools like Copilot sometimes made tasks faster but also required extra time for reviewing and integrating code. Overall, pre-planning, tracking effort, and reflecting on the process helped me understand my work better and will help me make more realistic estimates in future projects.
