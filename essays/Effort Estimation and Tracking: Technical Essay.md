@@ -43,7 +43,6 @@ I utilized AI tools, primarily Copilot in VSCode, for coding tasks. My effort tr
 - **Tool:** GitHub Copilot  
 - **Coding effort recorded:** Prompt engineering, code generation, verification and debugging, integration/refactoring  
 - **Time spent:** Approximately 15–20% of coding tasks involved AI assistance, including reviewing and correcting outputs  
-- **Portions accepted as-is:** Some boilerplate code and repetitive function implementations were directly usable; more complex logic required manual edits  
 
 Using AI allowed me to accelerate some tasks but also introduced additional effort for verification and integration, which was important to track accurately.
 
