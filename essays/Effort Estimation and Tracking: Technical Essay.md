@@ -10,7 +10,7 @@ labels:
 
 # Effort Estimation and Tracking
 
-![Illustration of Effort Tracking](https://mtuquero.github.io/img/icegif-492.gif)
+[Illustration of Effort Tracking](https://mtuquero.github.io/img/icegif-492.gif)
 
 
 ## Approach to Time Estimation
