@@ -10,7 +10,7 @@ labels:
 
 # Effort Estimation and Tracking
 
-![Effort Tracking](img/icegif-492.gif)
+<img width="200px" class="rounded float-start pe-4" src="img/icegif-492.gif">
 
 
 ## Approach to Time Estimation
