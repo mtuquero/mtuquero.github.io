@@ -10,9 +10,8 @@ labels:
 
 # Effort Estimation and Tracking
 
-<img width="200px" class="rounded float-start pe-4" src="mtuquero.github.io/img
-/E4C5C3FC-9652-4C64-B198-E849D91F54B3.png
-">
+<img width="200px" src="https://mtuquero.github.io/img/E4C5C3FC-9652-4C64-B198-E849D91F54B3.png" alt="Effort Tracking">
+
 
 
 ## Approach to Time Estimation
