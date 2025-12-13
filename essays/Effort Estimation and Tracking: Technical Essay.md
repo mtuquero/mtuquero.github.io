@@ -10,7 +10,10 @@ labels:
 
 # Effort Estimation and Tracking
 
-<img width="200px" src="../img/E4C5C3FC-9652-4C64-B198-E849D91F54B3.png" alt="Effort Tracking">
+<img src=".../img/E4C5C3FC-9652-4C64-B198-E849D91F54B3.png" 
+     alt="Effort Tracking" 
+     width="200px" 
+     style="float:left; margin-right:1em; border-radius:8px;">
 
 
 
