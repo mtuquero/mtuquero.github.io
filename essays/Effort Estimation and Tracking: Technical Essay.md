@@ -8,17 +8,37 @@ published: true
 labels:
 ---
 
+# Effort Estimation and Tracking
+
 ## Approach to Time Estimation
-I estimated my time through the WODs and my confidence when it came to the issue I was working on. I also usually overestimated my coding effort because I believed it was better to account for potential bugs, integration issues, or refactoring that might be needed. This helped ensure I had enough time to complete tasks without rushing, even when the actual coding effort ended up being lower.
+I made my effort estimates by considering the Work-Ordered Deliverables (WODs) and my confidence with the issue I was addressing. I often referred to historical data from similar issues I had previously completed to guide my estimates. For instance, if a prior bug fix took three hours, I used that as a baseline for similar debugging tasks. I usually overestimated my coding effort to account for potential bugs, integration issues, or refactoring that might be required. This approach helped ensure I had sufficient time to complete tasks without feeling rushed, even when the actual coding effort ended up being lower than estimated.
 
 ## Value of Pre-Planning Effort
-Even though my coding estimates were not as accurate as I initially expected, estimating in advance still provided clear benefits. It helped me plan my work and allocate enough time to complete tasks without rushing. Tracking my coding effort showed me how long writing and debugging code actually took, especially when I got stuck, which often took longer than expected. I also noticed that while AI tools such as Copilot sometimes helped me complete tasks faster, they could also increase my effort when generated code needed to be reviewed, corrected, or integrated. Tracking this effort helped me better understand how AI impacted my workflow and adjust future estimates accordingly.
+Although my estimates were sometimes inaccurate, pre-planning provided significant benefits. Estimating in advance allowed me to allocate my work schedule more effectively, ensuring I could prioritize tasks and reduce the risk of bottlenecks. For example, when working on user authentication features, I allocated extra time for email validation and password confirmation, which helped me avoid last-minute delays. Tracking my coding effort also revealed how long debugging and problem-solving actually took, which was often longer than initially expected. Additionally, using AI tools like Copilot sometimes accelerated coding but also required extra effort for reviewing, debugging, and integrating generated code. Pre-planning made it easier to account for these variations and adjust timelines accordingly.
 
 ## Usefulness of Tracking Actual Effort
-I have mixed feelings about tracking actual effort. On one hand, it is clearly useful—it gives insight into how long tasks really take and helps refine future estimates and project planning. On the other hand, staying consistent and disciplined with tracking time can be challenging. Despite this, even partial tracking helped me see patterns in my workflow and made me more aware of where time was spent.
+Tracking actual effort was extremely informative, even though it could be challenging to maintain consistently. Recording time helped me see patterns in my workflow, such as which types of tasks took longer than expected and which were completed faster. For example, debugging complex validation logic consistently took more time than writing new UI components. Although it was sometimes difficult to remain disciplined about tracking every minute, even partial tracking provided actionable insights for refining estimates and improving project planning. Overall, tracking actual effort was a valuable learning tool for both time management and process improvement.
 
 ## How I Recorded My Effort
-Effort tracking was inconsistent during Milestone 1, as our team did not fully account for time tracking at the start of the project. In Milestones 2 and 3, I tracked my effort more consistently using the timer on my iPhone to record both coding and non-coding effort. I sometimes found it difficult to stay consistent, as I would get focused on coding and forget to start or stop the timer. Because of this, the data may not be perfectly accurate, but I believe it is reasonably representative of the actual effort I spent on each task.
+During Milestone 1, our team tracked effort inconsistently, as we did not establish a clear method at the start of the project. In Milestones 2 and 3, I tracked my effort more consistently by using the timer on my iPhone to record both coding and non-coding activities. I recorded coding tasks such as prompt engineering for AI-generated code, writing and testing functions, and debugging. Non-coding tasks, such as requirement analysis, design planning, and collaboration, were also tracked by noting start and stop times in the issue comments. While the data may not be perfectly precise due to occasional lapses in starting or stopping the timer, I believe it is a reasonably accurate reflection of the time spent on each task.
 
-##Lessons Learned for Better Estimation
-Next time, I would change how I approach each issue, taking into account that my current data is not accurate enough. I would try to gather more reliable information from previous tasks, break down issues into smaller, more manageable parts, and incorporate the extra time needed for debugging or integrating AI-generated code. This could help make my estimates more realistic and tracking more meaningful.
+## Lessons Learned for Better Estimation
+In future projects, I would improve my estimation process by:
+
+1. Collecting more reliable historical data from past tasks to inform estimates.  
+2. Breaking larger issues into smaller, more manageable subtasks with individual estimates.  
+3. Including additional time for debugging, integration, and AI-assisted development.  
+4. Using dedicated time-tracking tools for both coding and non-coding tasks to reduce inconsistencies.  
+
+These steps would help create more realistic estimates and more accurate tracking, ultimately improving project planning and execution.
+
+## AI Use in Estimation and Tracking
+I utilized AI tools, primarily Copilot in VSCode, for coding tasks. My effort tracking accounted for AI use as follows:
+
+- **Tool:** GitHub Copilot  
+- **Coding effort recorded:** Prompt engineering, code generation, verification and debugging, integration/refactoring  
+- **Time spent:** Approximately 15–20% of coding tasks involved AI assistance, including reviewing and correcting outputs  
+- **Portions accepted as-is:** Some boilerplate code and repetitive function implementations were directly usable; more complex logic required manual edits  
+
+Using AI allowed me to accelerate some tasks but also introduced additional effort for verification and integration, which was important to track accurately.
+
