@@ -9,7 +9,7 @@ labels:
 ---
 
 # Effort Estimation and Tracking
-
+![Illustration of Effort Tracking](img/icegif-492.gif)
 ## Approach to Time Estimation
 I estimated my time through the WODs and my confidence when it came to the issue I was working on. I also usually overestimated my coding effort because I believed it was better to account for potential bugs, integration issues, or refactoring that might be needed. This helped ensure I had enough time to complete tasks without rushing, even when the actual coding effort ended up being lower.
 
