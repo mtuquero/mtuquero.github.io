@@ -9,19 +9,17 @@ labels:
   - ChatGpt
 ---
 
-### Gotta stay mindful
-Learning to code can be challenging, especially when faced with new concepts and tight deadlines. Throughout this course, I found AI tools like ChatGPT and VS Code Copilot to be incredibly helpful for understanding lessons, generating code, and troubleshooting problems. At the same time, I realized that it can be hard not to rely on AI, especially when tasks are complex or time is limited. However, relying too heavily on AI can hinder my coding ability if I don’t actively engage with the material. It’s important to stay aware of what I am learning and make sure I truly understand the concepts, rather than blindly accepting AI-generated solutions.
-
 ## Experience WODs 
-The solution videos for the experience WODs were a big help, so I didn’t really need to rely on AI for them. Watching the videos allowed me to see step-by-step how the problems could be solved, which helped me understand the reasoning behind each approach. After watching a video, I would attempt the WOD again on my own, applying what I had learned and checking my work against the solution. This process reinforced my understanding and gave me more confidence in solving similar problems without needing to turn to AI. In this case, the videos served as a clear guide, making AI assistance unnecessary.
+I found it unnecessary to use AI for the experience WODs. I relied more on the solution videos, which guided me step-by-step, and I would simply redo the WOD until I finished it in a faster time frame.
 
 ## In-class Practice WODs
-For the in-person practice WODs, I mostly tried to code without using AI. I relied on the example problems from our lessons to guide me. However, the class moved very fast, and I had to learn many new concepts in a short amount of time and apply them immediately. Because of this, it was difficult not to use AI, and I had to rely on it to make sure I could get everything done.
+I tried to complete the practice WODs on my own, but as the class became more difficult, I started using AI tools like ChatGPT to generate the basic layout of the code, which helped a lot. I also asked ChatGPT to create similar versions of the practice WODs and timed myself while solving them.
 
 ## In-class WODs 
-I did rely on AI during in-class WODs because I did not want to DNF any of them and hurt my grade. At first, I tried copying and pasting the entire instructions into ChatGPT, but that did not help much because the generated code needed a lot of fixing to properly match the instructions. Since the practice WODs were similar to the in-class WODs, I found it more helpful to build off those examples instead.
 
-## Essays
+I did use AI to help me with in-person WODs. I would code as much as I could on my own, and when I got stuck, I would have ChatGPT help me write the rest of the code. I also used the practice WODs and experience WODs as examples to give ChatGPT a layout or format to build off of, and then I adjusted the generated code to match our assignment so it would run correctly.
+
+## Essay
 I have it fix my grammar errors and make my writing more clear.
 
 ## Final project
@@ -43,13 +41,31 @@ I used AI to break down code that I didn’t understand and then asked it to pro
 I found AI really helpful when it came to explaining code. By asking it to break the code down into simpler terms, it made the material much easier to understand.
 
 ## Writing code
-As we progressed in class, I began heavily relying on AI to generate my code, especially for the final project. For example, when building my Prisma schema, I wrote a detailed description of what I wanted it to do and had Copilot generate the code for me. However, it still took time to understand what the AI was generating, and I carefully reviewed and adjusted the code as needed to ensure it worked correctly and that I fully understood how it functioned.
+As we progressed in class, I began heavily relying on AI to generate my code, especially for the final project. For example, when building my Prisma schema, I wrote a detailed description of what I wanted it to do and had Copilot generate the code for me. I set strict guidelines to ensure the generated code followed my instructions, and I often read through the code carefully to understand exactly what it was doing.
 
 ## Documenting code
 I wrote a basic outline explaining what each part of the code meant, then used Copilot to write instructions on what the code was doing.
 
 ## Quality assurance
 I relied on Copilot to help fix errors since it was easier than manually searching through large amounts of code. However, there were times when Copilot claimed an issue was fixed but the problem remained, so I had to go in and fix the code myself.
+
+## III. Impact on Learning and Understanding:
+AI changed the way I learned coding in both good and bad ways. It helped me understand concepts faster and gave clear examples, but I ended up writing less code myself. While AI improved my understanding, it also reminded me that real skill comes from practicing on my own.
+
+## IV. Practical Applications:
+AI does a good job at generating basic code, so I can see it being used in that way. However, it still needs people to review the work to make sure it’s correct.
+
+## V. Challenges and Opportunities:
+AI is very helpful, but it has faults. When generating code, you need to give clear instructions and strict guidelines, or it can create errors or mess with existing code. Despite this, AI can guide learning, give examples, and provide practice problems. In the future, it could be used more in education for tutoring, code reviews, and interactive exercises while still encouraging hands-on coding.
+
+## VI. Comparative Analysis:
+AI can be very useful for online lessons and textbook reading, making learning more efficient and providing personalized examples for students. For coding, AI is best used as a tool to review and understand code, rather than writing it for you. Traditional teaching helps build hands-on skills, while AI can enhance understanding and engagement, but both are important for fully learning software engineering.
+
+## VII. Future Considerations:
+AI will likely play a bigger role in software engineering education. It could help students learn faster with personalized lessons and feedback. The challenge is making sure students don’t rely on it too much and still practice coding themselves.
+
+## VIII. Conclusion:
+AI has been both helpful and challenging in this course. It made learning concepts faster, provided examples, and guided me through difficult coding tasks, especially for the final project. However, relying on AI too much limited my hands-on coding practice and sometimes required careful review to avoid errors. Overall, AI is a powerful tool for learning and understanding, but students still need to practice coding themselves. For future courses, AI could be integrated as a supportive resource—helping with explanations, examples, and feedback—while encouraging independent problem-solving to build real skills.
 
 
 
