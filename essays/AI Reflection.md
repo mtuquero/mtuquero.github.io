@@ -5,9 +5,14 @@ title: "Coding with AI"
 date: 2025-12-15
 published: true
 labels:
+  - Software Engineering
   - Copilot
   - ChatGpt
 ---
+
+## Introduction 
+
+In the field of software engineering, artificial intelligence has changed the way software is designed, developed, and maintained. AI tools can help improve productivity by assisting with coding, finding bugs, and speeding up development. In my ICS 314 class, I used AI as a tool to help me better understand concepts and complete assignments more efficiently. However, as we use AI, it is important that we still put in the effort ourselves so that AI is not just thinking for us. 
 
 ## Experience WODs 
 I found it unnecessary to use AI for the experience WODs. I relied more on the solution videos, which guided me step-by-step, and I would simply redo the WOD until I finished it in a faster time frame.
