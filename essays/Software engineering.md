@@ -10,7 +10,7 @@ labels:
   - Interface Frameworks
   - Development Enviroments
 ---
-<img src="/img/Brainhurts.jpg" style="width:300px; height:auto; float:right; margin-left:15px; margin-bottom:15px;">
+<img src="/img/Brainhurts.jpg" style="width:300px; height:auto; float:left; margin-right:15px; margin-bottom:15px;">
 
 ## Introduction
 I learned a lot in ICS 314, and while some of the concepts were difficult at first, I found them to be a good kind of challenge. At first, it might have seemed like the class was only about building web applications, but it taught me much more. The main goal was to give experience with core software engineering concepts that are useful for any type of software project. These include user interface frameworks, coding standards, development environments, and Agile Project Management. Even though it was sometimes challenging to learn these ideas, working through them helped me gain valuable skills and a better understanding of how real software projects are built and managed.
