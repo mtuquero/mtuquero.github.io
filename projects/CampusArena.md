@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img/CampusArena_resized.jpeg>
+image: img/CampusArena_resized.jpeg
 title: "CampusArena"
 date: 2025
 published: true
