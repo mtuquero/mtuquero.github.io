@@ -10,6 +10,8 @@ labels:
   - ChatGpt
 ---
 
+
+<img width="300px" class="rounded float-start pe-4" src="/img/AI_Image.webp">
 ## Introduction 
 
 In the field of software engineering, artificial intelligence has changed the way software is designed, developed, and maintained. AI tools can help improve productivity by assisting with coding, finding bugs, and speeding up development. In my ICS 314 class, I used AI as a tool to help me better understand concepts and complete assignments more efficiently. However, as we use AI, it is important that we still put in the effort ourselves so that AI is not just thinking for us. 
