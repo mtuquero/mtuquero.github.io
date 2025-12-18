@@ -32,6 +32,9 @@ I also discovered how challenging it can be to balance front-end design with bac
 - [CampusArena GitHub Organization](https://github.com/ci-campusarena)
   
 ## Screenshots
-<img class="img-fluid" src="../img/cotton/Screenshot 2025-09-11 203822.png" alt="CampusArena screenshot">
+<img src="/img/LANDING_PAGE1.jpeg" style="max-width:100%; height:auto;">
+<img src="/img/LANDINGPAGE_2.jpeg" style="max-width:100%; height:auto;">
+<img src="/img/MATCH_PAGE.jpeg" style="max-width:100%; height:auto;">
+<img src="/img/EVENT.jpeg" style="max-width:100%; height:auto;">
 
 
