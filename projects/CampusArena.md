@@ -28,9 +28,6 @@ Working on CampusArena gave me practical experience with team-based software dev
 
 I also discovered how challenging it can be to balance front-end design with back-end functionality and to debug complex features like event brackets. This project reinforced that software engineering is more than just coding—successful applications require organization, testing, and careful coordination among team members.
 
-## Resource Links
-- [CampusArena GitHub Organization](https://github.com/ci-campusarena)
-
 ## Screenshots
 <img src="/img/LANDING_PAGE1.jpeg" style="max-width:100%; height:auto;">
 <img src="/img/LANDINGPAGE_2.jpeg" style="max-width:100%; height:auto;">
