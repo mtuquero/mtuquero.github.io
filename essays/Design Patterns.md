@@ -7,7 +7,7 @@ published: true
 labels:
   - Design Patterns
 ---
-<img "img/Design_patterns.png">
+<img width="300px" class="rounded float-start pe-4" src="/img/Design_patterns.png">
 
 ## Blueprints Before Bricks
 Most people think software is built the way kids stack blocks: just put the pieces together and hope the tower doesn’t fall. But real software development is more like building a house. You can’t just start nailing boards together. You need a blueprint, a structure, and a shared way of solving problems so the next person who works on the house doesn’t walk in and think, “Who built this chaos?” That’s where design patterns come in they’re the architectural blueprints of software. They’re not lines of code, but repeatable ways to solve problems developers run into again and again. Almost like life hacks for programmers.
