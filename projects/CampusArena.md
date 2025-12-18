@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/Screenshot 2025-09-11 203800.png
+image: img/Screenshot_17-12-2025_17716_campusarena.github.io.jpeg
 title: "CampusArena"
 date: 2025
 published: true
