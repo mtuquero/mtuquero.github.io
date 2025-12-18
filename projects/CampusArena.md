@@ -1,10 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="img/Screenshot_17-12-2025_17716_campusarena.github.io.jpeg" 
-     alt="CampusArena" 
-     style="width:100%; max-width:300px; height:auto; object-fit:cover;">
-
+image: <img src="img/Screenshot_17-12-2025_17716_campusarena.github.io.jpeg">
 title: "CampusArena"
 date: 2025
 published: true
