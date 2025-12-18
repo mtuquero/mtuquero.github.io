@@ -23,13 +23,13 @@ As our group has been working on this project, we’ve learned that design patte
 ---
 ## Design Patterns in my code
 # Controlled Components pattern
-<img width="500px" class="rounded float-start pe-4" src="../img/Controlled Components pattern.png">
+<img width="500px" src="../img/Controlled Components pattern.png">
 
 # State Management Pattern
-<img width="500px" class="rounded float-start pe-4" src="../img/State Management Pattern.png">
+<img width="500px" src="../img/State Management Pattern.png">
 
 # Observer Pattern
-<img width="500px" class="rounded float-start pe-4" src="../img/Observer Pattern.png">
+<img width="500px" src="../img/Observer Pattern.png">
 
 ---
 I used ChatGPT to help organize my thoughts, simplify wording, and make the essay flow more clearly. All reflections, explanations, and project details about the design patterns we used are my own.
