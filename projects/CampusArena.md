@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="img/Screenshot_17-12-2025_17716_campusarena.github.io.jpeg">
+image: <img/CampusAerna_resized.jpeg
 title: "CampusArena"
 date: 2025
 published: true
